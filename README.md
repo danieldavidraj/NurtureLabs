@@ -26,9 +26,9 @@
 
 ### API: Can log in as a user
 <img src="images/6.png">
-<img src="images/7.png">
-<img src="images/8.png">
-<img src="images/9.png">
+<img src="images/21.png">
+<img src="images/22.png">
+<img src="images/23.png">
 
 ### API: Get the list of advisors
 <img src="images/10.png">
