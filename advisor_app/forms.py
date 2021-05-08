@@ -2,7 +2,7 @@ from django import forms
 
 class AddAdvisor(forms.Form):
     Advisor_name = forms.CharField(max_length = 100)
-    Advisor_Photo_URL = forms.CharField(max_length = 100)
+    Advisor_Photo_URL = forms.CharField(max_length = 1000)
 
 class RegisterUser(forms.Form):
     Name = forms.CharField(max_length = 100)
