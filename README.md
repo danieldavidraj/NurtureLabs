@@ -14,5 +14,5 @@
 ## Admin
 
 ### API: Add an advisor
-
+<img src="images/1.png">
 
