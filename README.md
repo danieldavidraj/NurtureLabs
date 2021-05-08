@@ -33,6 +33,7 @@
 ### API: Get the list of advisors
 <img src="images/10.png">
 <img src="images/18.png">
+<img src="images/19.png">
 
 ### API: Can book call with an advisor
 <img src="images/11.png">
