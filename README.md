@@ -6,6 +6,7 @@
 
 ## Tools Used:
 * Django
-* Django Rest Framework
+* Django REST framework
 * Python
 * JSON Web Tokens
+* Postman
