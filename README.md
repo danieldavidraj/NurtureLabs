@@ -15,7 +15,7 @@
 
 ### API: Add an advisor
 <img src="images/1.png">
-<img src="images/2.png">
+<img src="images/20.png">
 
 ## User
 
