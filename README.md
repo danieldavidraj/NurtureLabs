@@ -15,18 +15,4 @@
 
 ### API: Add an advisor
 
-#### Method:
-POST
-#### Authentication
-Not needed for this assignment
-#### Endpoint: 
-/admin/advisor/
-#### Request:
-Advisor name
-Advisor Photo URL
-#### Response:
-No Response
-Just return 200_OK if the request is successful
-Return 400_BAD_REQUEST if any of the above fields are missing
-
 
