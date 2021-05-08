@@ -23,7 +23,15 @@ def Admin(request):
 @csrf_exempt
 def GetAdmins(request,user_id):
    if request.method == "GET":
-      return HttpResponse(advisors,status=200)
+      all_users = User.objects.values()
+      for item in all_users:
+         if item['id'] == user_id:
+            if advisors:
+               return HttpResponse(advisors,status=200)
+            else:
+               return HttpResponse("No advisors",status=200)
+      else:
+         return HttpResponse("No user with {id}".format(id=user_id),status=400)
 
 bookings=[]
 
