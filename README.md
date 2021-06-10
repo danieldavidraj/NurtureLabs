@@ -2,7 +2,7 @@
 
 #### Heroku Link : [NurtureLabs](https://nurture--labs.herokuapp.com/)
 
-#### Postman Import : [Postman](https://github.com/danieldavidraj/NurtureLabs/blob/main/Django.postman_collection.json)
+#### Postman Import : [Postman](https://raw.githubusercontent.com/danieldavidraj/NurtureLabs/main/Django.postman_collection.json)
 
 ## Description:
 APIs using Django for an advisor network where users can come and book an advisor for a call.
